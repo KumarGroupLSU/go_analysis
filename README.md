@@ -2,8 +2,8 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-This open-source code offers a comprehensive suite of tools to characterize a GO sheet in water and its dynamical features.
-
+This open-source code offers a comprehensive suite of tools to characterize a GO sheet in water and its dynamical features.  
+GO Analysis  is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -116,4 +116,10 @@ Distributed under the GNU Affero General Public License v3.0. See `LICENSE` for 
 
 ## Acknowledgments & Sources
 
-This project has received official support from the [National Science Foundation](https://www.nsf.gov) under grant number [1845795].
+This project has received official support from the [National Science Foundation](https://www.nsf.gov) under grant number [1845795](https://nsf.gov/awardsearch/showAward?AWD_ID=1845795).
+
+Main citation:  
+David, R.; Tuladhar, A.; Zhang, L.; Arges, C.; Kumar, R. Effect of Oxidation Level on the Interfacial Water at the Graphene Oxide–Water Interface: From Spectroscopic Signatures to Hydrogen-Bonding Environment. J. Phys. Chem. B 2020, 124 (37), 8167–8178. [https://doi.org/10.1021/acs.jpcb.0c05282](https://doi.org/10.1021/acs.jpcb.0c05282).
+
+Applications:  
+David, R.; Kumar, R. Reactive Events at the Graphene Oxide–Water Interface. Chem. Commun. 2021, 57 (88), 11697–11700. [https://doi.org/10.1039/D1CC04589J](https://doi.org/10.1039/D1CC04589J).

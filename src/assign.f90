@@ -766,7 +766,6 @@ IF ( waterlist .EQ. 1 ) THEN
 
     OPEN(UNIT=42, FILE = suffix//"_waterlist.txt")
     DO s = 1, nb_step
-        WRITE(42,'(A14)', ADVANCE="no")"mask = indices "
         DO i = 1, nb_atm
             IF ( atm_type(i,s) .EQ. "OW" ) THEN
                 WRITE(42,'(I5)', ADVANCE="no") INT( atm_mat(1,i,s) - 1 )
