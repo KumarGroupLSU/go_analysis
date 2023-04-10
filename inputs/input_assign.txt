@@ -1,7 +1,7 @@
-file_pos             go4_20_20_1_NVT-19500-20000-Trajectory.xyz
-file_vel             go4_20_20_1_NVT-19500-20000-Velocities.xyz
+file_pos             positions.xyz
+file_vel             velocities.xyz
 nb_atm            1039
-nb_step           1000
+nb_step             20
 suffix              00
 xlo                  0.0
 xhi                 21.8489966560
