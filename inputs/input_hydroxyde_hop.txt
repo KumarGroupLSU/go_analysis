@@ -1,0 +1,14 @@
+file_pos             00_wrapped_go4_20_20_1_NVT-19500-20000-Trajectory.xyz
+file_is              00_wrapped_go4_20_20_1_NVT-19500-20000-Surface.surf
+nb_atm            1039
+nb_step           1000
+suffix              00
+xlo                  0.0
+xhi                 21.8489966560
+ylo                  0.0
+yhi                 21.2373561788
+zlo                  0.0
+zhi                 70.0
+!
+!-----------Hydroxide Hop
+!

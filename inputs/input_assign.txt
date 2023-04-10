@@ -1,0 +1,20 @@
+file_pos             go4_20_20_1_NVT-19500-20000-Trajectory.xyz
+file_vel             go4_20_20_1_NVT-19500-20000-Velocities.xyz
+nb_atm            1039
+nb_step           1000
+suffix              00
+xlo                  0.0
+xhi                 21.8489966560
+ylo                  0.0
+yhi                 21.2373561788
+zlo                  0.0
+zhi                 70.0
+WRAP_C               Y
+!
+!----------Assign
+assign_center_name   C
+assign_OC_rcut       1.75
+assign_OO_rcut       1.75
+assign_CC_rcut       1.75
+waterlist            1
+!

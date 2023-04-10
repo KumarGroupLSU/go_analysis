@@ -1,0 +1,51 @@
+file_pos             00_wrapped_go4_20_20_1_NVT-19500-20000-Trajectory.xyz
+file_vel             00_wrapped_go4_20_20_1_NVT-19500-20000-Velocities.vel
+file_is              00_wrapped_go4_20_20_1_NVT-19500-20000-Surface.surf
+nb_atm            1039
+nb_step           1000
+suffix              00
+xlo                  0.0
+xhi                 21.8489966560
+ylo                  0.0
+yhi                 21.2373561788
+zlo                  0.0
+zhi                 70.0
+!
+IS_c                 Y
+IS_ud                A
+!
+!-----------VVCF
+vvcf_OpH_rcut        1.3
+vvcf_oHpO_rcut       2.5
+vvcf_X1Oh_rcut       3.5
+vvcf_X2Oh_rcut      11.0
+vvcf_rcut            2.0
+timestep_fs          0.5
+mct                 25
+mctb                 0
+water_only           Y
+close_c_only         N
+close_gl_only        N
+close_gol_only       N
+close_ol_only        N
+up_down_only         U
+intracorr            Y
+autocorr             N
+layers               N
+!-----------down is .LE., up is .GT.
+layer_down           0
+layer_up             0
+hbonds               N
+!---(1/0)/(2/1) 1Don+2Acc => 3S only
+!---(1/0)/(3/1) 1Don+3/2Acc => 3S and 4S only
+!Exclusive selection!
+DCGT                 0
+DCLE                 0
+ACGT                 0
+ACLE                 0
+!--- IF double selection, selection become inclusive!
+hbonds_double        N
+DCGT2                0
+DCLE2                0
+ACGT2                0
+ACLE2                0
