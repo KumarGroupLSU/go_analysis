@@ -1,6 +1,5 @@
-file_is              go4_20_20_1_NVT-19500-20000-Surface.xyz
-nb_atm            1039
-nb_step           1000
+file_is              instantaneous_interface.xyz
+nb_step           20
 suffix              00
 xlo                  0.0
 xhi                 21.8489966560
